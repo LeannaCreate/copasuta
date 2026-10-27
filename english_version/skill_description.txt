@@ -1,0 +1,85 @@
+# Skill Name
+
+Generate a skill name
+using the following naming convention.
+
+
+## Naming Convention
+
+{business-area}-{task}
+
+
+## Naming Requirements
+
+1. Use lowercase English letters.
+
+2. Separate words with hyphens.
+
+3. Do not use spaces or Japanese characters.
+
+4. Make the skill's purpose clear from its name.
+
+5. Ensure that the name matches
+   `target-skill-name` in the agent instructions.
+
+
+## Example Names
+
+mhlw-paid-leave-search
+
+hr-work-rules-search
+
+it-security-policy-search
+
+
+# Skill Description
+
+Generate the skill description using the following structure.
+
+
+## When to Use
+
+State that the skill is used for questions directly related to {Business scope}.
+
+
+## Scope
+
+State that it is used for the following questions and tasks.
+
+- {In-scope question example 1}
+- {In-scope question example 2}
+- {In-scope question example 3}
+- {In-scope question example 4}
+
+
+## Out of Scope
+
+State that it is not used for the following questions and tasks.
+
+- {Out-of-scope question example 1}
+- {Out-of-scope question example 2}
+- {Out-of-scope question example 3}
+
+
+# Writing Rules
+
+1. Keep the skill description concise.
+
+2. Clearly define when the skill should and should not be used.
+
+3. Do not include specific processing steps.
+
+4. Place detailed knowledge-search procedures in the skill instructions.
+
+5. Ensure that in-scope and out-of-scope conditions do not conflict.
+
+
+# Output Format
+
+Output the following two items.
+
+1. Skill name
+
+2. Skill description
+
+Format the name and description so that each can be pasted directly into its corresponding Copilot Studio field.

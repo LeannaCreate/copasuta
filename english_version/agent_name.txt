@@ -1,0 +1,50 @@
+# Purpose
+
+Generate a name for an AI agent
+to be created in Microsoft Copilot Studio.
+
+Make the agent's purpose and business scope
+clear from its name.
+
+
+# Naming Rules
+
+1. Make the agent's business task clear.
+
+2. Where appropriate,
+   include the information source or processing task in the name.
+
+3. Choose a name that ordinary users can understand.
+
+4. Avoid unnecessarily long names.
+
+5. Make the name easy to distinguish from other agents.
+
+6. As a general rule,
+   include "Agent" in the agent name.
+
+
+# Agent Name Structure
+
+Use the following basic structure.
+
+{Business area or information source} {Main task} Agent
+
+
+# Example Names
+
+MHLW Paid Leave Search Agent
+
+Internal Work Rules Search Agent
+
+Information Security Policy Search Agent
+
+Expense Reimbursement Support Agent
+
+
+# Output Format
+
+Output only one
+agent name.
+
+Do not include reasons for the name or additional explanations.
